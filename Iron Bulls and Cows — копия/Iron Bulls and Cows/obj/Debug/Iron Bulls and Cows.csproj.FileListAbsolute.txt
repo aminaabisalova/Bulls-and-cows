@@ -1,0 +1,55 @@
+C:\Users\user\Desktop\Iron Bulls and Cows\Iron Bulls and Cows\bin\Debug\Iron Bulls and Cows.exe.config
+C:\Users\user\Desktop\Iron Bulls and Cows\Iron Bulls and Cows\bin\Debug\Iron Bulls and Cows.exe
+C:\Users\user\Desktop\Iron Bulls and Cows\Iron Bulls and Cows\bin\Debug\Iron Bulls and Cows.pdb
+C:\Users\user\Desktop\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron_Bulls_and_Cows.FormGame.resources
+C:\Users\user\Desktop\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron_Bulls_and_Cows.Properties.Resources.resources
+C:\Users\user\Desktop\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.exe
+C:\Users\user\Desktop\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.pdb
+C:\Users\user\Desktop\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.exe.config
+D:\Iron Bulls and Cows\Iron Bulls and Cows\bin\Debug\Iron Bulls and Cows.exe.config
+D:\Iron Bulls and Cows\Iron Bulls and Cows\bin\Debug\Iron Bulls and Cows.exe
+D:\Iron Bulls and Cows\Iron Bulls and Cows\bin\Debug\Iron Bulls and Cows.pdb
+D:\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.csproj.AssemblyReference.cache
+D:\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.exe.config
+D:\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron_Bulls_and_Cows.FormGame.resources
+D:\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron_Bulls_and_Cows.Properties.Resources.resources
+D:\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.csproj.GenerateResource.cache
+D:\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.csproj.CoreCompileInputs.cache
+D:\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.exe
+D:\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.pdb
+D:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.csproj.AssemblyReference.cache
+D:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.exe.config
+D:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron_Bulls_and_Cows.MainForm.resources
+D:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron_Bulls_and_Cows.Properties.Resources.resources
+D:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.csproj.GenerateResource.cache
+D:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.csproj.CoreCompileInputs.cache
+D:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.exe
+D:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.pdb
+D:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\bin\Debug\Iron Bulls and Cows.exe.config
+D:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\bin\Debug\Iron Bulls and Cows.exe
+D:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\bin\Debug\Iron Bulls and Cows.pdb
+E:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\bin\Debug\Iron Bulls and Cows.exe.config
+E:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\bin\Debug\Iron Bulls and Cows.exe
+E:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\bin\Debug\Iron Bulls and Cows.pdb
+E:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.csproj.AssemblyReference.cache
+E:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron_Bulls_and_Cows.MainForm.resources
+E:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron_Bulls_and_Cows.Properties.Resources.resources
+E:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.csproj.GenerateResource.cache
+E:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.csproj.CoreCompileInputs.cache
+E:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.exe
+E:\Игра\Iron Bulls and Cows\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.pdb
+D:\Програмирование\Игра\Iron Bulls and Cows — копия\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.csproj.AssemblyReference.cache
+D:\Програмирование\Игра\Iron Bulls and Cows — копия\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.exe.config
+D:\Програмирование\Игра\Iron Bulls and Cows — копия\Iron Bulls and Cows\obj\Debug\Iron_Bulls_and_Cows.MainForm.resources
+D:\Програмирование\Игра\Iron Bulls and Cows — копия\Iron Bulls and Cows\obj\Debug\Iron_Bulls_and_Cows.Properties.Resources.resources
+D:\Програмирование\Игра\Iron Bulls and Cows — копия\Iron Bulls and Cows\obj\Debug\Iron_Bulls_and_Cows.WelcomeForm.resources
+D:\Програмирование\Игра\Iron Bulls and Cows — копия\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.csproj.GenerateResource.cache
+D:\Програмирование\Игра\Iron Bulls and Cows — копия\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.csproj.CoreCompileInputs.cache
+D:\Програмирование\Игра\Iron Bulls and Cows — копия\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.exe
+D:\Програмирование\Игра\Iron Bulls and Cows — копия\Iron Bulls and Cows\obj\Debug\Iron Bulls and Cows.pdb
+D:\Програмирование\Игра\Iron Bulls and Cows — копия\Iron Bulls and Cows\bin\Debug\Iron Bulls and Cows.exe.config
+D:\Програмирование\Игра\Iron Bulls and Cows — копия\Iron Bulls and Cows\bin\Debug\Iron Bulls and Cows.exe
+D:\Програмирование\Игра\Iron Bulls and Cows — копия\Iron Bulls and Cows\bin\Debug\Iron Bulls and Cows.pdb
